@@ -15,7 +15,7 @@ I’m Ricardo Rojas — a passionate full-stack developer with a strong focus on
   - 📊 Validate legal compliance efficiently.
 - 🌱 I’m currently deepening my knowledge in **Cybersecurity**, **Cloud architectures**, and **AI integration**.
 - 💬 Ask me about: Cloud Integrations, Node.js, Firebase, C-Tool, or legaltech solutions.
-- 📫 How to reach me: ricardorojas@example.com
+- 📫 How to reach me: ricardo0697@hotmail.com
 
 ---
 
