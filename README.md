@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Ricardo+Rojas;Full-stack+Developer+%7C+Oracle+Cloud+Specialist;LegalTech+Creator+%7C+Cybersecurity+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ricardo+Rojas;Full-stack+Developer+%7C+Oracle+Cloud+Specialist;LegalTech+Creator+%7C+Cybersecurity+Learner" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 💼 About Me
